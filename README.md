@@ -30,9 +30,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RaxRot&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&layout=compact&hide=html,css,javascript)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaxRot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <br>
 
 ### ✍️ Random Dev Quote
