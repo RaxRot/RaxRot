@@ -26,16 +26,12 @@
 <br><br>
 
 # 📊 GitHub Stats:
-![RaxRot's Stats](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
-<br>
-![RaxRot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaxRot&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&layout=compact&hide=html,css,javascript)
-
-<br>
+![](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RaxRot&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&layout=compact&hide=html,css,javascript)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaxRot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RaxRot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
 
