@@ -17,7 +17,11 @@ Computer Science student & aspiring **Game Developer** 🚀<br><br>
 🛠 Tools & Workflow:<br>
 ⚙️ Unity Hub, Rider / Visual Studio<br>
 📂 Version Control: Git, GitHub<br>
-🧪 Debugging & Profiling in Unity<br>
+🧩 ScriptableObjects, Prefabs, Timeline<br>
+🎮 Physics2D / Rigidbody, Colliders<br>
+🎨 Shader Graph (basic), URP<br>
+🚀 Build & Export (PC / Android)<br>
+🧪 Debugging, Profiling & Optimization in Unity<br>
 
 <br>
 
