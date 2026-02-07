@@ -28,7 +28,7 @@ Computer Science student & aspiring **Game Developer** 🚀<br><br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vladbulahovraxrot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vlad-bulahov-0ab357249/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasistperfektosss@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasistperfektosss@gmail.com)
 
 <br>
 
@@ -38,6 +38,14 @@ Computer Science student & aspiring **Game Developer** 🚀<br><br>
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Cinemachine](https://img.shields.io/badge/Cinemachine-4B4B4B?style=for-the-badge&logo=unity&logoColor=white)
+![Unity URP](https://img.shields.io/badge/URP-222C37?style=for-the-badge&logo=unity&logoColor=white)
+![Input System](https://img.shields.io/badge/Input%20System-5C2D91?style=for-the-badge&logo=unity&logoColor=white)
+
+<br>
+
+### 🧠 Programming & Architecture:
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
+![ScriptableObjects](https://img.shields.io/badge/ScriptableObjects-4B4B4B?style=for-the-badge&logo=unity&logoColor=white)
 
 <br>
 
