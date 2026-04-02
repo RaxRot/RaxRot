@@ -52,9 +52,12 @@ Computer Science student & aspiring **Android Developer** 🚀<br><br>
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=RaxRot&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&layout=compact&hide=html,css,javascript)
+
+![](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=RaxRot&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&layout=compact&hide=html,css,javascript,java,kotlin)
 
 <br>
 
