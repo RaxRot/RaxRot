@@ -50,11 +50,11 @@ Computer Science student & aspiring **Unity Game Developer** 🚀<br><br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&show_icons=true&cache_seconds=86400)
 
-![](https://nirzak-streak-stats.vercel.app/?user=RaxRot&theme=radical&hide_border=false)<br/>
+<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&layout=compact&theme=radical&cache_seconds=86400)
 
 <br>
 
