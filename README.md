@@ -1,22 +1,22 @@
 # 💫 About Me:
 👋 Hi, I'm Vlad!<br>
-Computer Science student & aspiring **Android Developer** 🚀<br><br>
+Computer Science student & aspiring **Unity Game Developer** 🚀<br><br>
 
 💻 Tech stack:<br>
-📱 Android Development: Kotlin (Core, Coroutines, Flow), Java<br>
-🎨 UI & UX: Jetpack Compose, XML, Material Design 3<br>
-🧠 Architecture: MVVM, MVI, Clean Architecture<br>
-📂 Data Management: Room Database, DataStore, SharedPreferences<br>
-🌐 Networking: Retrofit, OkHttp, REST API, JSON serialization (Kotlinx Serialization / GSON)<br><br>
+🎮 Game Development: Unity (C#), Gameplay Programming, Physics, Input System<br>
+🎨 Graphics & UI: Unity UI (Canvas), Animations, Particle System / VFX Graph<br>
+🧠 Architecture: OOP, Component-Based Architecture, Game Systems Design<br>
+⚙️ Systems: Player Movement, Camera Control, Interactions, Game Logic<br>
+🧩 Mechanics: Shooting, Physics-based movement, UI systems, basic AI<br><br>
 
-🛠 Mobile Tools & Workflow:<br>
-⚙️ Android SDK, Android Studio<br>
-📦 Dependency Injection: Hilt / Dagger 2, Koin<br>
-🚀 Background Tasks: WorkManager, AlarmManager<br>
-🧩 Lifecycle: ViewModel, LiveData, Navigation Component<br>
-📂 Version Control: Git, GitHub<br>
-🧪 Testing: JUnit, Espresso, Mockk<br>
-📊 Firebase: Auth, Firestore, Realtime Database, Cloud Messaging (FCM)<br>
+🛠 Game Dev Tools & Workflow:<br>
+⚙️ Unity Engine (Unity 6)<br>
+📦 Version Control: Git, GitHub<br>
+🎮 Input Systems: New Input System / Legacy Input<br>
+🎥 Cinemachine, Timeline<br>
+⚡ Physics: Rigidbody, Collisions, Forces<br>
+🎞 Animation: Animator, State Machines<br>
+🔊 Audio: Unity Audio System<br>
 
 <br>
 
@@ -29,23 +29,20 @@ Computer Science student & aspiring **Android Developer** 🚀<br><br>
 
 # 💻 Tech Stack:
 
-### 📱 Android Development:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🎮 Game Development:
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <br>
 
-### 🧠 Architecture & Libraries:
-![MVVM](https://img.shields.io/badge/MVVM-00599C?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Retrofit](https://img.shields.io/badge/Retrofit-4B4B4B?style=for-the-badge)
+### 🧠 Architecture & Systems:
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
+![Game Dev](https://img.shields.io/badge/Game%20Development-4B4B4B?style=for-the-badge)
 
 <br>
 
 ### 🛠 Tools & Workflow:
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity%20Editor-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -57,7 +54,7 @@ Computer Science student & aspiring **Android Developer** 🚀<br><br>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=RaxRot&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&layout=compact&hide=html,css,javascript,java,kotlin)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&theme=radical&hide_border=false&include_all_commits=true&layout=compact)
 
 <br>
 
@@ -65,6 +62,7 @@ Computer Science student & aspiring **Android Developer** 🚀<br><br>
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=RaxRot&icon=0&color=0)](https://visitcount.itsvg.in)
