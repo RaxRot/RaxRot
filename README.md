@@ -2,6 +2,10 @@
 👋 Hi, I'm Vlad!<br>
 Computer Science student & aspiring **Unity Game Developer** 🚀<br><br>
 
+🎮 Passionate about creating gameplay mechanics, interactive systems, and game experiences in Unity  
+
+---
+
 💻 Tech stack:<br>
 🎮 Game Development: Unity (C#), Gameplay Programming, Physics, Input System<br>
 🎨 Graphics & UI: Unity UI (Canvas), Animations, Particle System / VFX Graph<br>
@@ -48,13 +52,19 @@ Computer Science student & aspiring **Unity Game Developer** 🚀<br><br>
 
 <br><br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Activity:
 
-![](https://github-readme-stats.vercel.app/api?username=RaxRot&theme=radical&show_icons=true&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaxRot&theme=radical)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaxRot&layout=compact&theme=radical&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaxRot&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaxRot&theme=radical)
+
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaxRot&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaxRot&theme=radical&utcOffset=1)
 
 <br>
 
