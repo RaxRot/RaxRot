@@ -1,56 +1,60 @@
 # 💫 About Me:
-👋 Hi, I'm Vlad!<br>
-Computer Science student & aspiring **Unity Game Developer** 🚀<br><br>
+👋 Hi, I'm Vlad!  
+Computer Science student & aspiring **Android Developer** 🚀  
 
-🎮 Passionate about creating gameplay mechanics, interactive systems, and game experiences in Unity  
+📱 Passionate about building modern mobile apps, clean UI, and scalable Android architectures  
 
 ---
 
-💻 Tech stack:<br>
-🎮 Game Development: Unity (C#), Gameplay Programming, Physics, Input System<br>
-🎨 Graphics & UI: Unity UI (Canvas), Animations, Particle System / VFX Graph<br>
-🧠 Architecture: OOP, Component-Based Architecture, Game Systems Design<br>
-⚙️ Systems: Player Movement, Camera Control, Interactions, Game Logic<br>
-🧩 Mechanics: Shooting, Physics-based movement, UI systems, basic AI<br><br>
+## 💻 Tech Stack:
 
-🛠 Game Dev Tools & Workflow:<br>
-⚙️ Unity Engine (Unity 6)<br>
-📦 Version Control: Git, GitHub<br>
-🎮 Input Systems: New Input System / Legacy Input<br>
-🎥 Cinemachine, Timeline<br>
-⚡ Physics: Rigidbody, Collisions, Forces<br>
-🎞 Animation: Animator, State Machines<br>
-🔊 Audio: Unity Audio System<br>
+📱 Android Development: Kotlin, Android SDK, Jetpack Compose  
+🎨 UI & UX: Material Design 3, Responsive Layouts, Theming  
+🧠 Architecture: OOP, MVVM, Clean Architecture  
+⚙️ Networking: REST APIs, Retrofit, OkHttp  
+💾 Data: Room Database, DataStore, SharedPreferences  
+🔐 Fundamentals: Lifecycle, Navigation, State Management  
 
-<br>
+---
+
+## 🛠 Android Tools & Workflow:
+
+⚙️ Android Studio  
+📦 Version Control: Git, GitHub  
+🧩 DI: Hilt (basic)  
+🔄 Async: Coroutines, Flow  
+🧪 Testing: JUnit (basic)  
+🔥 Firebase (Auth, Firestore – basics)  
+
+---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vladbulahovraxrot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vlad-bulahov-0ab357249/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vladbulahovraxrot)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vlad-bulahov-0ab357249/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasistperfektosss@gmail.com)
 
-<br>
+---
 
 # 💻 Tech Stack:
 
-### 🎮 Game Development:
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+### 📱 Android Development:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-<br>
+---
 
 ### 🧠 Architecture & Systems:
-![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)
-![Game Dev](https://img.shields.io/badge/Game%20Development-4B4B4B?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-00599C?style=for-the-badge)  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4B4B4B?style=for-the-badge)
 
-<br>
+---
 
 ### 🛠 Tools & Workflow:
-![Unity](https://img.shields.io/badge/Unity%20Editor-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br><br>
 
 # 📊 GitHub Activity:
 
